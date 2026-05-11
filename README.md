@@ -37,12 +37,14 @@ The computer randomly selects a choice, and the user enters their move through t
 ---
 
 🎮 Game Controls
+
 Input	Choice
 s	: Snake
 w	: Water
 g	: Gun
 
 🧠 Concepts Used
+
 Python Dictionaries
 Conditional Statements
 Random Module
