@@ -36,13 +36,6 @@ The computer randomly selects a choice, and the user enters their move through t
 
 ---
 
-## 📂 Project Structure
-
-```bash
-Snake-Water-Gun/
-│── game.py
-│── README.md
-
 🎮 Game Controls
 Input	Choice
 s	: Snake
@@ -55,3 +48,11 @@ Conditional Statements
 Random Module
 User Input
 Game Logic
+
+
+## 📂 Project Structure
+
+```bash
+Snake-Water-Gun/
+│── game.py
+│── README.md
